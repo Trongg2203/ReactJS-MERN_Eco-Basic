@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## atn design
+npm install antd --save
+
+## redux toolkit 
+npm install @reduxjs/toolkit
+npm install react-redux
+
+## react-router dom 
+npm i react-router-dom
+
+## tao file routes để quản lý router-Link
